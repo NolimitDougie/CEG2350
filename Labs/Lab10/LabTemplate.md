@@ -1,7 +1,7 @@
 ## Lab 10
 
-- Name:
-- Email:
+- Name: Dougie Townsell
+- Email: townsell.4@wright.edu
 
 ## Part 1 Answers
 
@@ -9,11 +9,11 @@
 
 ## Part 2 Answers
 
-1. Compiler:
-   - Location:
-   - Version:
-2. Command to compile:
-3. Command to run:
+1. Compiler: g++ --version
+   - Location:  --- ask Duncan
+   - Version: g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+2. Command to compile: g++ repeat.cpp
+3. Command to run: ./a.out
 
 - Add your compiled code to your Lab10 folder in GitHub
 
